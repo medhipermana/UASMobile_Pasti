@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753026146624",
+    "project_id": "login-d2d05",
+    "storage_bucket": "login-d2d05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753026146624:android:754ce5784aed6c83f09aa5",
+        "android_client_info": {
+          "package_name": "com.example.onlineshoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753026146624-48a7ei6fea0jmof5fjpgp05okpufejcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYb9I1ChX6fr3pCV00253EgzUS2MmLQg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753026146624-48a7ei6fea0jmof5fjpgp05okpufejcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
